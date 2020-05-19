@@ -1,0 +1,50 @@
+﻿body {
+    font: 15px/1.5 sans-serif;
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, purple, yellow, purple);
+}
+
+/*Global*/
+.container {
+    width: 60%;
+    margin: auto;
+    overflow: hidden;
+    padding: 0;
+}
+
+p {
+    font-weight: 600;
+}
+
+li {
+    margin: 10px;
+    font-weight: 600;
+    font-size: 16px;
+    color: black;
+}
+
+
+/*Header*/
+header {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to right, purple, yellow, purple);
+}
+
+    header #text-item {
+        align-self: center;
+        color: black;
+        font-size: 25px;
+    }
+
+    header p {
+        font-size: 18px;
+    }
+
+/*Section*/
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
