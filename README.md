@@ -1,2 +1,2 @@
 # Kobe Tribute Page
-This is a tribute page for Kobe Bryant. here is the link for it 
+This is a tribute page for Kobe Bryant. here is the link for it  https://egorushakovofficial.github.io/KobeTributePage/
